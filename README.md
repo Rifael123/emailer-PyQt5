@@ -2,4 +2,4 @@
 
 
 Merupakan Aplikasi Pengirim Email Melalui SMTP 
-Menggunakan Framework PyQt5
+Menggunakan Library PyQt5
